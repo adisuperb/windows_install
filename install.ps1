@@ -1,5 +1,5 @@
 Write-Host "Hello The AVOLife!"
-Read-Host "Press any key to continue"
+Read-Host "Press any key to continue.."
 
 Set-ExecutionPolicy Bypass -Scope Process
 
