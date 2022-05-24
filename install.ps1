@@ -26,6 +26,5 @@ choco install vlc -y
 choco install spotify -y
 choco install whatsapp -y
 choco install microsoft-teams -y
-choco install powertoys -y
 
 Write-Host "IT Arena #AvoWebSolutions"
