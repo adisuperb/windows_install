@@ -2,6 +2,7 @@ Write-Host "Hello The AVOLife!"
 Read-Host "Press any key to continue.."
 
 Set-ExecutionPolicy Bypass -Scope Process
+
 <#
 .Install Chocolatey
 #>
@@ -23,8 +24,6 @@ choco install anydesk -y
 choco install zoom -y
 choco install winrar -y
 choco install vlc -y
-choco install spotify -y
-choco install whatsapp -y
 choco install microsoft-teams -y
 
 Write-Host "IT Arena #AvoWebSolutions"
